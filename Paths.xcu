@@ -10,7 +10,7 @@
  
 		<node oor:name="Template" oor:op="fuse">
 			<node oor:name="InternalPaths">
-                                <node oor:name="%origin%/layout/$(vlang)" oor:op="fuse"/>
+                                <node oor:name="%origin%/impress-templates" oor:op="fuse"/>
 			</node>
 		</node>
  

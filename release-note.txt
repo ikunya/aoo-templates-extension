@@ -1,0 +1,7 @@
+これはApache OpenOffice (AOO) 4.0のImpress用テンプレートをLibreOfficeで使用するための拡張機能です。
+AOO 4.0には含まれていますが、日本語版では使用できないため、日本語で使用するAOOユーザーにも有益かと思います。
+
+ファイルは
+http://svn.apache.org/viewvc/openoffice/trunk/main/extras/source/templates/layout/lang/en-US/
+から取得できます。
+

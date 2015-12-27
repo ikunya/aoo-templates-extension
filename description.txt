@@ -1,0 +1,2 @@
+Apache OpenOffice (AOO) 4.0のImpress用テンプレートをLibreOfficeで使用するための拡張機能です。
+

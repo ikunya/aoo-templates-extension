@@ -10,11 +10,15 @@ AOO 4.0以降には含まれていますが、日本語版では使用できな�
 元のテンプレートファイルは[AOOのsvnリポジトリ](http://svn.apache.org/viewvc/openoffice/trunk/main/extras/source/templates/layout/lang/en-US/)から取得できます。
 
 ## ビルド方法
-次のコマンドを実行してください。
+git clone後、次のコマンドを実行してください。一つ上のフォルダーに拡張機能ができます。
 
 ```
-zip aoo-template-extension.oxt * impress-templates/* impress-templates/aoo-templates/* META-INF/manifest.xml
+cd aoo-templates-extension
+zip ../aoo-template-extension.oxt * impress-templates/* impress-templates/aoo-templates/* META-INF/manifest.xml
 ```
 
 ## 使用方法
 LibreOfficeの拡張機能としてインストールしてください。
+
+## ライセンス
+ライセンスはAOOと同じくApache License Version 2.0とします。
